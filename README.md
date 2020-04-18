@@ -1,6 +1,6 @@
 # Buku online hasil karya Madrus
 
-&copy; **Said Madrus** S.Kom MMSI M.Si
+Hak Cipta &copy; **Said Madrus** S.Kom MMSI M.Si
 
 Bersertifikasi: 6SigmaDC-CDCP-CDCS-CDFOM-CTDC-CTIA-GreenShip Associate.
 
